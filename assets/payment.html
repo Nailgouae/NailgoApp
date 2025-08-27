@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mock Payment Gateway</title>
+</head>
+<body style="text-align: center; padding-top: 50px;">
+  <h2>Enter payment details</h2>
+  <p>This simulates a real payment gateway</p>
+  <button onclick="success()">Simulate Success</button>
+  <button onclick="failure()">Simulate Failure</button>
+
+  <script>
+    function success() {
+      window.location.href = "https://anvil.works/learn/examples/simple-website-guide";
+    }
+    function failure() {
+      window.location.href = "https://yourdomain.com/failed.html";
+    }
+  </script>
+</body>
+</html>
