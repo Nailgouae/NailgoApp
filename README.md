@@ -39,8 +39,8 @@ Nailgo is a Flutter-based mobile application that allows users to **measure thei
 
 ### 2. Clone the Repository
 ```bash
-- git clone https://github.com/Nailgouae/Nailgo.git
-- cd Nailgo
+- git clone https://github.com/Nailgouae/NailgoApp.git
+- cd NailgoApp
 
  3. Install Dependencies
  flutter clean
